@@ -1,1 +1,2 @@
 line 1 in file1 from feature1.
+line  in file1 from feature1.
