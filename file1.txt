@@ -4,4 +4,5 @@ line 3 in file1 from feature1.
 line 4 in file1 from feature1.
 line 1 in file 1 from main.
 line 2 in file 1 from main.
+line 3 in file 1 from feature 2.
 one line from main
